@@ -1,8 +1,8 @@
 # Breast Cancer Detection
 
 
-Breast Cancer is one of the highest cause for death in women, it's early identification increases the chances of survival and can help save many lives.
-We Trained a model to detect the level of calcification on a scale of 1 to 4 in a breast cancer image submitted by the user and classify it as benign or malignant. The model has an accuracy score of 90\% on validation dataset.
+Breast Cancer is one of the highest causes of death in women, it's early identification increases the chances of survival and can help save many lives.
+We Trained a model to detect the level of calssification on a scale of 1 to 4 in a breast cancer image submitted by the user and classify it as benign or malignant. The model has an accuracy score of 90\% on the validation dataset.
 
 ----------------------------------------------------------
 ##Images from Webapp
